@@ -40,3 +40,36 @@ export async function GET(req: Request, { params }: { params: { id: string } }) 
     return NextResponse.json({ message: "Internal server error" }, { status: 500 });
   }
 }
+
+import { auth } from "@/auth";
+
+export async function DELETE(req: Request, { params }: { params: { id: string } }) {
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ message: "Unauthorized" }, { status: 401 });
+  }
+
+  try {
+    const questionId = params.id;
+    const question = await prisma.question.findUnique({
+      where: { id: questionId }
+    });
+
+    if (!question) {
+      return NextResponse.json({ message: "Question not found" }, { status: 404 });
+    }
+
+    if (question.userId !== session.user.id) {
+      return NextResponse.json({ message: "Forbidden" }, { status: 403 });
+    }
+
+    await prisma.question.delete({
+      where: { id: questionId }
+    });
+
+    return NextResponse.json({ message: "Deleted successfully" }, { status: 200 });
+  } catch (error) {
+    console.error("Error deleting question:", error);
+    return NextResponse.json({ message: "Internal server error" }, { status: 500 });
+  }
+}

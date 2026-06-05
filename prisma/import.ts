@@ -5,7 +5,7 @@ import * as path from 'path';
 const prisma = new PrismaClient();
 
 async function main() {
-  const dataPath = path.join(__dirname, 'data', 'colleges.json');
+  const dataPath = path.join(process.cwd(), 'prisma', 'data', 'colleges.json');
   const rawData = fs.readFileSync(dataPath, 'utf-8');
   const colleges = JSON.parse(rawData);
 

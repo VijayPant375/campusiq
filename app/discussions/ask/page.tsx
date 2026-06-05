@@ -27,10 +27,10 @@ export default function AskQuestionPage() {
     // Fetch colleges for dropdown
     const fetchColleges = async () => {
       try {
-        const res = await fetch('/api/colleges');
+        const res = await fetch('/api/colleges?limit=100');
         if (res.ok) {
           const data = await res.json();
-          setColleges(data);
+          setColleges(data.colleges || []);
         }
       } catch (err) {}
     };

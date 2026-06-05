@@ -77,6 +77,20 @@ export default function DiscussionDetailPage() {
     }
   };
 
+  const handleDeleteQuestion = async () => {
+    if (!confirm("Are you sure you want to delete this question?")) return;
+    try {
+      const res = await fetch(`/api/questions/${id}`, { method: 'DELETE' });
+      if (res.ok) {
+        router.push('/discussions');
+      } else {
+        alert("Failed to delete question");
+      }
+    } catch (err) {
+      console.error(err);
+    }
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
@@ -111,8 +125,18 @@ export default function DiscussionDetailPage() {
             <h1 className="text-3xl font-extrabold text-gray-900 dark:text-white leading-tight">
               {question.title}
             </h1>
-            <div className="text-right flex-shrink-0 text-sm text-gray-500 bg-gray-50 dark:bg-gray-800 px-3 py-1.5 rounded-lg border border-gray-200 dark:border-gray-700">
-              <span className="font-bold text-gray-900 dark:text-white">{question.views}</span> views
+            <div className="flex items-center gap-3">
+              {isQuestionOwner && (
+                <button
+                  onClick={handleDeleteQuestion}
+                  className="px-3 py-1.5 text-sm font-bold text-red-600 bg-red-50 hover:bg-red-100 rounded-lg border border-red-200 transition-colors flex-shrink-0"
+                >
+                  Delete
+                </button>
+              )}
+              <div className="text-right flex-shrink-0 text-sm text-gray-500 bg-gray-50 dark:bg-gray-800 px-3 py-1.5 rounded-lg border border-gray-200 dark:border-gray-700">
+                <span className="font-bold text-gray-900 dark:text-white">{question.views}</span> views
+              </div>
             </div>
           </div>
 
