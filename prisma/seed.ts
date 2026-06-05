@@ -68,7 +68,7 @@ async function main() {
       type: "Private",
       rating: 4.7,
       totalFees: 520000,
-      imageUrl: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=1000",
+      imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=1000",
       overview: "BITS Pilani is India's premier private engineering college, known for its zero-attendance policy and flexible curriculum.",
       courses: {
         create: [
@@ -236,7 +236,7 @@ async function main() {
       type: "Public-Private",
       rating: 4.8,
       totalFees: 350000,
-      imageUrl: "https://images.unsplash.com/photo-1576092040974-9842a59a973a?auto=format&fit=crop&q=80&w=1000",
+      imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
       overview: "IIIT Hyderabad is synonymous with top-tier coding culture and world-class research in computer science.",
       courses: {
         create: [
@@ -460,7 +460,7 @@ async function main() {
       type: "Public",
       rating: 4.4,
       totalFees: 160000,
-      imageUrl: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80&w=1000",
+      imageUrl: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&q=80&w=1000",
       overview: "VNIT Nagpur is a premier technical institute in central India with a lush green campus.",
       courses: {
         create: [
