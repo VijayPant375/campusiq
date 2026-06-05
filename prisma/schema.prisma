@@ -3,25 +3,42 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
 model College {
-  id         Int         @id @default(autoincrement())
-  name       String
-  location   String
-  state      String
-  type       String
-  rating     Float
-  totalFees  Int
-  imageUrl   String?
-  overview   String
-  createdAt  DateTime    @default(now())
+  id            Int          @id @default(autoincrement())
+  name          String       @unique
+  location      String
+  state         String
+  city          String?
+  pincode       String?
+  type          String
+  category      String?
+  rating        Float
+  totalFees     Int
+  nirfRank      Int?
+  established   Int?
+  website       String?
+  phone         String?
+  accreditation String?
+  imageUrl      String?
+  overview      String
+  createdAt     DateTime     @default(now())
 
-  courses    Course[]
-  placements Placement[]
-  reviews    Review[]
+  courses       Course[]
+  placements    Placement[]
+  reviews       Review[]
+  tags          CollegeTag[]
+}
+
+model CollegeTag {
+  id        Int     @id @default(autoincrement())
+  collegeId Int
+  tag       String
+
+  college   College @relation(fields: [collegeId], references: [id])
 }
 
 model Course {

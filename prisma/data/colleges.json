@@ -1,0 +1,3941 @@
+[
+  {
+    "name": "IIT Madras - Indian Institute of Technology",
+    "location": "Chennai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.5,
+    "totalFees": 220000,
+    "nirfRank": 1,
+    "established": 1980,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Madras - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Chennai, Tamil Nadu. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2386236,
+        "highestPackage": 12232870,
+        "placementRate": 91.81738888170274
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Delhi - Indian Institute of Technology",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 2,
+    "established": 1966,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Delhi - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in New Delhi, Delhi. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1785667,
+        "highestPackage": 14397418,
+        "placementRate": 92.88647092260321
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Bombay - Indian Institute of Technology",
+    "location": "Mumbai, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 3,
+    "established": 1971,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Bombay - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Mumbai, Maharashtra. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1504634,
+        "highestPackage": 14153485,
+        "placementRate": 98.66427498170533
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Kanpur - Indian Institute of Technology",
+    "location": "Kanpur, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 4,
+    "established": 1967,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Kanpur - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Kanpur, Uttar Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1916589,
+        "highestPackage": 14315547,
+        "placementRate": 95.0819548091715
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Kharagpur - Indian Institute of Technology",
+    "location": "Kharagpur, West Bengal",
+    "state": "West Bengal",
+    "city": "Kharagpur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.5,
+    "totalFees": 220000,
+    "nirfRank": 5,
+    "established": 1980,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Kharagpur - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Kharagpur, West Bengal. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1894772,
+        "highestPackage": 12958165,
+        "placementRate": 89.96486440013815
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Roorkee - Indian Institute of Technology",
+    "location": "Roorkee, Uttarakhand",
+    "state": "Uttarakhand",
+    "city": "Roorkee",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 6,
+    "established": 1958,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Roorkee - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Roorkee, Uttarakhand. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2041936,
+        "highestPackage": 14832439,
+        "placementRate": 87.98928953750145
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Guwahati - Indian Institute of Technology",
+    "location": "Guwahati, Assam",
+    "state": "Assam",
+    "city": "Guwahati",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4,
+    "totalFees": 220000,
+    "nirfRank": 7,
+    "established": 1973,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Guwahati - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Guwahati, Assam. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1912295,
+        "highestPackage": 13651126,
+        "placementRate": 95.36555505613924
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Hyderabad - Indian Institute of Technology",
+    "location": "Hyderabad, Telangana",
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 8,
+    "established": 1963,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Hyderabad - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Hyderabad, Telangana. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2378943,
+        "highestPackage": 14294603,
+        "placementRate": 95.65670747467243
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Indore - Indian Institute of Technology",
+    "location": "Indore, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Indore",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 9,
+    "established": 1983,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Indore - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Indore, Madhya Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1963581,
+        "highestPackage": 12700368,
+        "placementRate": 96.92305351833402
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Varanasi (BHU) - Indian Institute of Technology",
+    "location": "Varanasi, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 220000,
+    "nirfRank": 10,
+    "established": 1971,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Varanasi (BHU) - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Varanasi, Uttar Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1836449,
+        "highestPackage": 10000790,
+        "placementRate": 88.6532212666322
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Dhanbad (ISM) - Indian Institute of Technology",
+    "location": "Dhanbad, Jharkhand",
+    "state": "Jharkhand",
+    "city": "Dhanbad",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 11,
+    "established": 1950,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Dhanbad (ISM) - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Dhanbad, Jharkhand. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2000779,
+        "highestPackage": 12496866,
+        "placementRate": 89.99148881471166
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Bhubaneswar - Indian Institute of Technology",
+    "location": "Bhubaneswar, Odisha",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 220000,
+    "nirfRank": 12,
+    "established": 1974,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Bhubaneswar - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Bhubaneswar, Odisha. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1763300,
+        "highestPackage": 12556046,
+        "placementRate": 93.47186338834396
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Gandhinagar - Indian Institute of Technology",
+    "location": "Gandhinagar, Gujarat",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 220000,
+    "nirfRank": 13,
+    "established": 1983,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Gandhinagar - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Gandhinagar, Gujarat. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1595222,
+        "highestPackage": 11195975,
+        "placementRate": 96.68336989448447
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Ropar - Indian Institute of Technology",
+    "location": "Rupnagar, Punjab",
+    "state": "Punjab",
+    "city": "Rupnagar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 14,
+    "established": 1984,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Ropar - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Rupnagar, Punjab. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2239213,
+        "highestPackage": 14186045,
+        "placementRate": 94.93175246633069
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Patna - Indian Institute of Technology",
+    "location": "Patna, Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 220000,
+    "nirfRank": 15,
+    "established": 1995,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Patna - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Patna, Bihar. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2051985,
+        "highestPackage": 12864844,
+        "placementRate": 97.91160384922836
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Mandi - Indian Institute of Technology",
+    "location": "Mandi, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Mandi",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 220000,
+    "nirfRank": 16,
+    "established": 1981,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Mandi - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Mandi, Himachal Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1771933,
+        "highestPackage": 11024508,
+        "placementRate": 88.16851758276653
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Jodhpur - Indian Institute of Technology",
+    "location": "Jodhpur, Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.5,
+    "totalFees": 220000,
+    "nirfRank": 17,
+    "established": 1995,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Jodhpur - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Jodhpur, Rajasthan. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1662642,
+        "highestPackage": 12159053,
+        "placementRate": 87.55380580131526
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Tirupati - Indian Institute of Technology",
+    "location": "Tirupati, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Tirupati",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 5,
+    "totalFees": 220000,
+    "nirfRank": 18,
+    "established": 1988,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Tirupati - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Tirupati, Andhra Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1775018,
+        "highestPackage": 11393655,
+        "placementRate": 92.70789429601145
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Bhilai - Indian Institute of Technology",
+    "location": "Bhilai, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "city": "Bhilai",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.8,
+    "totalFees": 220000,
+    "nirfRank": 19,
+    "established": 1993,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Bhilai - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Bhilai, Chhattisgarh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2090818,
+        "highestPackage": 14695445,
+        "placementRate": 89.87212293201546
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Goa - Indian Institute of Technology",
+    "location": "Ponda, Goa",
+    "state": "Goa",
+    "city": "Ponda",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 220000,
+    "nirfRank": 20,
+    "established": 1987,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Goa - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Ponda, Goa. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2460813,
+        "highestPackage": 11019975,
+        "placementRate": 85.58182038365405
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Jammu - Indian Institute of Technology",
+    "location": "Jammu, Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Jammu",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4,
+    "totalFees": 220000,
+    "nirfRank": 21,
+    "established": 1958,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Jammu - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Jammu, Jammu and Kashmir. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1524683,
+        "highestPackage": 10160037,
+        "placementRate": 86.60683930390483
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Dharwad - Indian Institute of Technology",
+    "location": "Dharwad, Karnataka",
+    "state": "Karnataka",
+    "city": "Dharwad",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.5,
+    "totalFees": 220000,
+    "nirfRank": 22,
+    "established": 1985,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Dharwad - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Dharwad, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1660861,
+        "highestPackage": 14757977,
+        "placementRate": 96.77990755510238
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "IIT Palakkad - Indian Institute of Technology",
+    "location": "Palakkad, Kerala",
+    "state": "Kerala",
+    "city": "Palakkad",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 220000,
+    "nirfRank": 23,
+    "established": 1978,
+    "website": "https://www.iit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "IIT Palakkad - Indian Institute of Technology is one of the premier institutes for Engineering in India. It is located in Palakkad, Kerala. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "IIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1961128,
+        "highestPackage": 11958254,
+        "placementRate": 94.2368564853576
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Trichy - National Institute of Technology",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Tiruchirappalli",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 24,
+    "established": 1973,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Trichy - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Tiruchirappalli, Tamil Nadu. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1821339,
+        "highestPackage": 12599886,
+        "placementRate": 89.89297172711971
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Surathkal - National Institute of Technology",
+    "location": "Mangalore, Karnataka",
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 25,
+    "established": 1984,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Surathkal - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Mangalore, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2243336,
+        "highestPackage": 14035637,
+        "placementRate": 97.25861596214766
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Rourkela - National Institute of Technology",
+    "location": "Rourkela, Odisha",
+    "state": "Odisha",
+    "city": "Rourkela",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.5,
+    "totalFees": 220000,
+    "nirfRank": 26,
+    "established": 1963,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Rourkela - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Rourkela, Odisha. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2032896,
+        "highestPackage": 12846002,
+        "placementRate": 87.83602603606946
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Warangal - National Institute of Technology",
+    "location": "Warangal, Telangana",
+    "state": "Telangana",
+    "city": "Warangal",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 27,
+    "established": 1963,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Warangal - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Warangal, Telangana. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1645258,
+        "highestPackage": 13784817,
+        "placementRate": 98.26939764234385
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Calicut - National Institute of Technology",
+    "location": "Kozhikode, Kerala",
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4,
+    "totalFees": 220000,
+    "nirfRank": 28,
+    "established": 1982,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Calicut - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Kozhikode, Kerala. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1559079,
+        "highestPackage": 13548333,
+        "placementRate": 87.6442069526967
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "MNIT Jaipur - Malaviya National Institute of Technology",
+    "location": "Jaipur, Rajasthan",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 29,
+    "established": 1985,
+    "website": "https://www.mnit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "MNIT Jaipur - Malaviya National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Jaipur, Rajasthan. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1656929,
+        "highestPackage": 13842074,
+        "placementRate": 86.00279831102213
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "VNIT Nagpur - Visvesvaraya National Institute of Technology",
+    "location": "Nagpur, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.8,
+    "totalFees": 220000,
+    "nirfRank": 30,
+    "established": 1991,
+    "website": "https://www.vnit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "VNIT Nagpur - Visvesvaraya National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Nagpur, Maharashtra. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2112971,
+        "highestPackage": 11146087,
+        "placementRate": 90.94249047017938
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Kurukshetra - National Institute of Technology",
+    "location": "Kurukshetra, Haryana",
+    "state": "Haryana",
+    "city": "Kurukshetra",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.3,
+    "totalFees": 220000,
+    "nirfRank": 31,
+    "established": 1966,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Kurukshetra - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Kurukshetra, Haryana. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1860578,
+        "highestPackage": 12890205,
+        "placementRate": 93.81169272032758
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Silchar - National Institute of Technology",
+    "location": "Silchar, Assam",
+    "state": "Assam",
+    "city": "Silchar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 32,
+    "established": 1980,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Silchar - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Silchar, Assam. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1801790,
+        "highestPackage": 12828156,
+        "placementRate": 87.51777950734684
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Durgapur - National Institute of Technology",
+    "location": "Durgapur, West Bengal",
+    "state": "West Bengal",
+    "city": "Durgapur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.4,
+    "totalFees": 220000,
+    "nirfRank": 33,
+    "established": 1997,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Durgapur - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Durgapur, West Bengal. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2346010,
+        "highestPackage": 11513903,
+        "placementRate": 93.59205251217034
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology",
+    "location": "Prayagraj, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 220000,
+    "nirfRank": 34,
+    "established": 1989,
+    "website": "https://www.mnnit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "MNNIT Allahabad - Motilal Nehru National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Prayagraj, Uttar Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1925471,
+        "highestPackage": 14135453,
+        "placementRate": 89.10708491330372
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Jalandhar - Dr. B. R. Ambedkar National Institute of Technology",
+    "location": "Jalandhar, Punjab",
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 220000,
+    "nirfRank": 35,
+    "established": 1952,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Jalandhar - Dr. B. R. Ambedkar National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Jalandhar, Punjab. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2143492,
+        "highestPackage": 12882302,
+        "placementRate": 94.22822293373419
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Meghalaya - National Institute of Technology",
+    "location": "Shillong, Meghalaya",
+    "state": "Meghalaya",
+    "city": "Shillong",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 36,
+    "established": 1969,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Meghalaya - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Shillong, Meghalaya. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2006443,
+        "highestPackage": 11962150,
+        "placementRate": 95.43940842005097
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "MANIT Bhopal - Maulana Azad National Institute of Technology",
+    "location": "Bhopal, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.4,
+    "totalFees": 220000,
+    "nirfRank": 37,
+    "established": 1970,
+    "website": "https://www.manit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "MANIT Bhopal - Maulana Azad National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Bhopal, Madhya Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1998187,
+        "highestPackage": 10247711,
+        "placementRate": 88.89775143441115
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Raipur - National Institute of Technology",
+    "location": "Raipur, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 38,
+    "established": 1976,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Raipur - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Raipur, Chhattisgarh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2421242,
+        "highestPackage": 12302951,
+        "placementRate": 97.31023084563303
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Agartala - National Institute of Technology",
+    "location": "Agartala, Tripura",
+    "state": "Tripura",
+    "city": "Agartala",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 39,
+    "established": 1952,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Agartala - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Agartala, Tripura. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1535098,
+        "highestPackage": 10530904,
+        "placementRate": 93.13006346335156
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Goa - National Institute of Technology",
+    "location": "Ponda, Goa",
+    "state": "Goa",
+    "city": "Ponda",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 220000,
+    "nirfRank": 40,
+    "established": 1969,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Goa - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Ponda, Goa. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1524564,
+        "highestPackage": 13114376,
+        "placementRate": 95.22582172816237
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Jamshedpur - National Institute of Technology",
+    "location": "Jamshedpur, Jharkhand",
+    "state": "Jharkhand",
+    "city": "Jamshedpur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.8,
+    "totalFees": 220000,
+    "nirfRank": 41,
+    "established": 1982,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Jamshedpur - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Jamshedpur, Jharkhand. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2378548,
+        "highestPackage": 14059351,
+        "placementRate": 91.14763631988353
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Patna - National Institute of Technology",
+    "location": "Patna, Bihar",
+    "state": "Bihar",
+    "city": "Patna",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 5,
+    "totalFees": 220000,
+    "nirfRank": 42,
+    "established": 1966,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Patna - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Patna, Bihar. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1706835,
+        "highestPackage": 14436335,
+        "placementRate": 98.70638710082869
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Hamirpur - National Institute of Technology",
+    "location": "Hamirpur, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "city": "Hamirpur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.4,
+    "totalFees": 220000,
+    "nirfRank": 43,
+    "established": 1978,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Hamirpur - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Hamirpur, Himachal Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2010626,
+        "highestPackage": 11327393,
+        "placementRate": 94.72417022691086
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Puducherry - National Institute of Technology",
+    "location": "Karaikal, Puducherry",
+    "state": "Puducherry",
+    "city": "Karaikal",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.9,
+    "totalFees": 220000,
+    "nirfRank": 44,
+    "established": 1997,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Puducherry - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Karaikal, Puducherry. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1975809,
+        "highestPackage": 10521211,
+        "placementRate": 88.47304404727089
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Manipur - National Institute of Technology",
+    "location": "Imphal, Manipur",
+    "state": "Manipur",
+    "city": "Imphal",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 220000,
+    "nirfRank": 45,
+    "established": 1992,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Manipur - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Imphal, Manipur. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2419038,
+        "highestPackage": 10207589,
+        "placementRate": 85.54726372968959
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Arunachal Pradesh - National Institute of Technology",
+    "location": "Yupia, Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "city": "Yupia",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 46,
+    "established": 1987,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Arunachal Pradesh - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Yupia, Arunachal Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1830541,
+        "highestPackage": 10143106,
+        "placementRate": 93.83316102622376
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Srinagar - National Institute of Technology",
+    "location": "Srinagar, Jammu and Kashmir",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 47,
+    "established": 1992,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Srinagar - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Srinagar, Jammu and Kashmir. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2481413,
+        "highestPackage": 13912055,
+        "placementRate": 92.28555678949293
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Delhi - National Institute of Technology",
+    "location": "New Delhi, Delhi",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 220000,
+    "nirfRank": 48,
+    "established": 1999,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Delhi - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in New Delhi, Delhi. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2215964,
+        "highestPackage": 10962587,
+        "placementRate": 87.76516793667217
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Mizoram - National Institute of Technology",
+    "location": "Aizawl, Mizoram",
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 5,
+    "totalFees": 220000,
+    "nirfRank": 49,
+    "established": 1951,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Mizoram - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Aizawl, Mizoram. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2297809,
+        "highestPackage": 13644193,
+        "placementRate": 87.53893218691944
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Nagaland - National Institute of Technology",
+    "location": "Dimapur, Nagaland",
+    "state": "Nagaland",
+    "city": "Dimapur",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.4,
+    "totalFees": 220000,
+    "nirfRank": 50,
+    "established": 1992,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Nagaland - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Dimapur, Nagaland. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2045255,
+        "highestPackage": 12290250,
+        "placementRate": 92.37367422139728
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Sikkim - National Institute of Technology",
+    "location": "Ravangla, Sikkim",
+    "state": "Sikkim",
+    "city": "Ravangla",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 51,
+    "established": 1993,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Sikkim - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Ravangla, Sikkim. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2021053,
+        "highestPackage": 10684991,
+        "placementRate": 87.35544368413399
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Uttarakhand - National Institute of Technology",
+    "location": "Srinagar, Uttarakhand",
+    "state": "Uttarakhand",
+    "city": "Srinagar",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.3,
+    "totalFees": 220000,
+    "nirfRank": 52,
+    "established": 1997,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Uttarakhand - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Srinagar, Uttarakhand. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2441955,
+        "highestPackage": 11154821,
+        "placementRate": 91.4018316802833
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "NIT Andhra Pradesh - National Institute of Technology",
+    "location": "Tadepalligudem, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Tadepalligudem",
+    "type": "Public",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 220000,
+    "nirfRank": 53,
+    "established": 1988,
+    "website": "https://www.nit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NBA",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "NIT Andhra Pradesh - National Institute of Technology is one of the premier institutes for Engineering in India. It is located in Tadepalligudem, Andhra Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Central University",
+      "Autonomous",
+      "NIT"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 220000
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 220000
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 2379270,
+        "highestPackage": 12666631,
+        "placementRate": 93.37305201927614
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "BITS Pilani - Birla Institute of Technology and Science",
+    "location": "Pilani, Rajasthan",
+    "state": "Rajasthan",
+    "city": "Pilani",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 455080,
+    "nirfRank": 54,
+    "established": 1962,
+    "website": "https://www.bits.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "BITS Pilani - Birla Institute of Technology and Science is one of the premier institutes for Engineering in India. It is located in Pilani, Rajasthan. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 455080
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 455080
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 455080
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 912682,
+        "highestPackage": 4133626,
+        "placementRate": 94.64237174518229
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "VIT Vellore - Vellore Institute of Technology",
+    "location": "Vellore, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Vellore",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.5,
+    "totalFees": 542749,
+    "nirfRank": 55,
+    "established": 1960,
+    "website": "https://www.vit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "VIT Vellore - Vellore Institute of Technology is one of the premier institutes for Engineering in India. It is located in Vellore, Tamil Nadu. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 542749
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 542749
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 542749
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1108258,
+        "highestPackage": 4310190,
+        "placementRate": 95.07199847300015
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "location": "Manipal, Karnataka",
+    "state": "Karnataka",
+    "city": "Manipal",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.4,
+    "totalFees": 521353,
+    "nirfRank": 56,
+    "established": 1951,
+    "website": "https://www.manipal.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "Manipal Institute of Technology is one of the premier institutes for Engineering in India. It is located in Manipal, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 521353
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 521353
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 521353
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 911091,
+        "highestPackage": 4116373,
+        "placementRate": 98.98864411888722
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "location": "Chennai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 434910,
+    "nirfRank": 57,
+    "established": 1996,
+    "website": "https://www.srm.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "SRM Institute of Science and Technology is one of the premier institutes for Engineering in India. It is located in Chennai, Tamil Nadu. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 434910
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 434910
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 434910
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1119785,
+        "highestPackage": 5088264,
+        "placementRate": 88.94107829007277
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "Amity University",
+    "location": "Noida, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 422841,
+    "nirfRank": 58,
+    "established": 1964,
+    "website": "https://www.amity.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "Amity University is one of the premier institutes for Engineering in India. It is located in Noida, Uttar Pradesh. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 422841
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 422841
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 422841
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1039885,
+        "highestPackage": 4693263,
+        "placementRate": 93.98460883467504
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "Lovely Professional University",
+    "location": "Phagwara, Punjab",
+    "state": "Punjab",
+    "city": "Phagwara",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.7,
+    "totalFees": 549440,
+    "nirfRank": 59,
+    "established": 1973,
+    "website": "https://www.lovely.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "Lovely Professional University is one of the premier institutes for Engineering in India. It is located in Phagwara, Punjab. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 549440
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 549440
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 549440
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1064801,
+        "highestPackage": 4858109,
+        "placementRate": 86.69634699977944
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "Thapar Institute of Engineering and Technology",
+    "location": "Patiala, Punjab",
+    "state": "Punjab",
+    "city": "Patiala",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 420324,
+    "nirfRank": 60,
+    "established": 1993,
+    "website": "https://www.thapar.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "Thapar Institute of Engineering and Technology is one of the premier institutes for Engineering in India. It is located in Patiala, Punjab. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 420324
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 420324
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 420324
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1172420,
+        "highestPackage": 4381901,
+        "placementRate": 98.94540451105736
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "PES University",
+    "location": "Bangalore, Karnataka",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.6,
+    "totalFees": 514970,
+    "nirfRank": 61,
+    "established": 1971,
+    "website": "https://www.pes.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "PES University is one of the premier institutes for Engineering in India. It is located in Bangalore, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 514970
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 514970
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 514970
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 876413,
+        "highestPackage": 4276357,
+        "placementRate": 89.89474535692493
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "RV College of Engineering",
+    "location": "Bangalore, Karnataka",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4,
+    "totalFees": 459087,
+    "nirfRank": 62,
+    "established": 1960,
+    "website": "https://www.rv.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "RV College of Engineering is one of the premier institutes for Engineering in India. It is located in Bangalore, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 459087
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 459087
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 459087
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 872583,
+        "highestPackage": 5869938,
+        "placementRate": 89.42977355538312
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "MSRIT - Ramaiah Institute of Technology",
+    "location": "Bangalore, Karnataka",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 499052,
+    "nirfRank": 63,
+    "established": 1982,
+    "website": "https://www.msrit.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "MSRIT - Ramaiah Institute of Technology is one of the premier institutes for Engineering in India. It is located in Bangalore, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 499052
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 499052
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 499052
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1182651,
+        "highestPackage": 5237006,
+        "placementRate": 86.89918946499765
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "JSS Academy of Technical Education",
+    "location": "Bangalore, Karnataka",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.8,
+    "totalFees": 483393,
+    "nirfRank": 64,
+    "established": 1962,
+    "website": "https://www.jss.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "JSS Academy of Technical Education is one of the premier institutes for Engineering in India. It is located in Bangalore, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 483393
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 483393
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 483393
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 1106646,
+        "highestPackage": 5940786,
+        "placementRate": 94.09534435848141
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "BMS College of Engineering",
+    "location": "Bangalore, Karnataka",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.3,
+    "totalFees": 584707,
+    "nirfRank": 65,
+    "established": 1961,
+    "website": "https://www.bms.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "BMS College of Engineering is one of the premier institutes for Engineering in India. It is located in Bangalore, Karnataka. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 584707
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 584707
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 584707
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 916400,
+        "highestPackage": 4105308,
+        "placementRate": 89.02333817449477
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "SASTRA Deemed University",
+    "location": "Thanjavur, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.1,
+    "totalFees": 480522,
+    "nirfRank": 66,
+    "established": 1980,
+    "website": "https://www.sastra.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "SASTRA Deemed University is one of the premier institutes for Engineering in India. It is located in Thanjavur, Tamil Nadu. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 480522
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 480522
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 480522
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 818460,
+        "highestPackage": 5042341,
+        "placementRate": 92.32458694216001
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  },
+  {
+    "name": "Symbiosis Institute of Technology",
+    "location": "Pune, Maharashtra",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "type": "Private",
+    "category": "Engineering",
+    "rating": 4.2,
+    "totalFees": 522282,
+    "nirfRank": 67,
+    "established": 1996,
+    "website": "https://www.symbiosis.ac.in",
+    "phone": "+91-1234567890",
+    "accreditation": "NAAC A++",
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    "overview": "Symbiosis Institute of Technology is one of the premier institutes for Engineering in India. It is located in Pune, Maharashtra. The campus provides excellent facilities and outstanding placement records.",
+    "tags": [
+      "Autonomous",
+      "Deemed"
+    ],
+    "courses": [
+      {
+        "name": "B.Tech Computer Science",
+        "duration": "4 Years",
+        "fees": 522282
+      },
+      {
+        "name": "B.Tech Electronics",
+        "duration": "4 Years",
+        "fees": 522282
+      },
+      {
+        "name": "B.Tech Mechanical",
+        "duration": "4 Years",
+        "fees": 522282
+      }
+    ],
+    "placements": [
+      {
+        "year": 2024,
+        "averagePackage": 894546,
+        "highestPackage": 5815796,
+        "placementRate": 88.30843004209048
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rahul K.",
+        "rating": 4.5,
+        "comment": "Great campus life and excellent placements."
+      },
+      {
+        "author": "Sneha P.",
+        "rating": 4,
+        "comment": "Academics are rigorous, but the faculty is very supportive."
+      }
+    ]
+  }
+]
