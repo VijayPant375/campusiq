@@ -8,6 +8,7 @@ import { useSession, signOut } from 'next-auth/react';
 export function Navbar() {
   const pathname = usePathname();
   const [compareCount, setCompareCount] = useState(0);
+  const [compareIdsStr, setCompareIdsStr] = useState<string>('');
   const { data: session } = useSession();
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
@@ -18,11 +19,14 @@ export function Navbar() {
         try {
           const ids = JSON.parse(idsStr);
           setCompareCount(Array.isArray(ids) ? ids.length : 0);
+          setCompareIdsStr(Array.isArray(ids) ? ids.join(',') : '');
         } catch (e) {
           setCompareCount(0);
+          setCompareIdsStr('');
         }
       } else {
         setCompareCount(0);
+        setCompareIdsStr('');
       }
     };
 
@@ -76,7 +80,7 @@ export function Navbar() {
             </Link>
             
             <Link 
-              href={compareCount >= 2 ? "/compare?ids=" + JSON.parse(localStorage.getItem('compareIds') || '[]').join(',') : "/colleges"}
+              href={compareCount >= 2 ? `/compare?ids=${compareIdsStr}` : "/colleges"}
               className="relative p-2 text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors bg-gray-50 dark:bg-gray-800 rounded-full border border-gray-200 dark:border-gray-700 shadow-sm"
               title="Compare Colleges"
             >

@@ -62,7 +62,7 @@ export default function HomePage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
               </svg>
             </div>
-            <h3 className="text-3xl font-extrabold text-gray-900 dark:text-white mb-2">20+</h3>
+            <h3 className="text-3xl font-extrabold text-gray-900 dark:text-white mb-2">67+</h3>
             <p className="text-gray-500 dark:text-gray-400 font-bold uppercase tracking-wider text-sm">Top Colleges Listed</p>
           </div>
           

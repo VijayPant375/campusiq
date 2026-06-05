@@ -6,13 +6,26 @@ import { useRouter } from 'next/navigation';
 import { CollegeCard } from '@/components/colleges/CollegeCard';
 import Link from 'next/link';
 
+interface SavedCollege {
+  id: string;
+  collegeId: number;
+  college: any;
+}
+
+interface SavedComparison {
+  id: string;
+  name: string;
+  collegeIds: string;
+  createdAt: string;
+}
+
 export default function SavedPage() {
   const { data: session, status } = useSession();
   const router = useRouter();
   
   const [activeTab, setActiveTab] = useState<'colleges' | 'comparisons'>('colleges');
-  const [savedColleges, setSavedColleges] = useState<any[]>([]);
-  const [savedComparisons, setSavedComparisons] = useState<any[]>([]);
+  const [savedColleges, setSavedColleges] = useState<SavedCollege[]>([]);
+  const [savedComparisons, setSavedComparisons] = useState<SavedComparison[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {

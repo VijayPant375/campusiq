@@ -7,8 +7,8 @@ import { Providers } from "./providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CampusIQ | Find Your Perfect College",
-  description: "Discover, compare, and find the perfect college that fits your future.",
+  title: "CampusIQ | Smart College Predictor & Comparisons",
+  description: "Discover top engineering colleges, predict your admission chances, compare institutions side-by-side, and ask community questions.",
 };
 
 export default function RootLayout({
